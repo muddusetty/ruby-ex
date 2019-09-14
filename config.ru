@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Hari OpenShift</h1>
+            <h1>Muddusetty-hari OpenShift</h1>
           </hgroup>
 
 
